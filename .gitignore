@@ -1,2 +1,5 @@
 # Build Directory
 build/
+
+# VSCode
+.vscode/
